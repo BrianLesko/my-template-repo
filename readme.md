@@ -1,10 +1,10 @@
 
-# Raspberry pi powered Airplane 
-Control the airplane throttle and steering servos over the internet.
+# Template Repository
+Set up a great looking readme.md quickly using [this repository].
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.gif" width="800"></div>
+<div align="center"><img src="docs/preview.gif" width="800" alt="Preview of the robotics engineering project"></div>
 
 &nbsp;
 
